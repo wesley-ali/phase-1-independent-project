@@ -5,10 +5,10 @@
 #### By *Wesley Carson Alinyo*
 
 ## Description
-It's a webpage that shows different types of triangles and what they look like.
+It's a webpage that shows a criterion that is linked to a Learning Outcome in which the app involves;  HTML/CSS/JS frontend that accesses data from a public API. The interactions between the client and the API are handled asynchronously and use JSON as the communication format.
 
 ## Installation
-You use git clone to be able to download the documents in the GitHub
+You use git clone to be able to download the documents in the GitHub.
 
 ## Installation Requirements
 Git
