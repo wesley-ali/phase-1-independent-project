@@ -1,6 +1,4 @@
-# phase-1-independent-project
-
-# (Project Name)
+# Phase-1-independent-project.
 
 #### Date, 2018/09/14
 
