@@ -33,7 +33,7 @@ github.com/wesley-ali
 
 ### License
 The content of this site is licensed under the MIT license
-Copyright (c) 2018.
+Copyright (c) 2024.
 
 
 
