@@ -1,31 +1,42 @@
 # phase-1-independent-project
 
-Date, 22/03/2024.
+# (Project Name)
 
-By Wesley Carson Alinyo.
-Description,
-It's a Javascript solution code that enables one to;
+#### Date, 2018/09/14
 
-Generates student grades in which users can input and output student grades correctly.
-Detects speed, inputs the speed of a car which outputs the total demerit points of a car driver.
-Calculates the net salary of an individual by inputs of one's basic salary and benefits.
-Installation,
-You use git clone to be able to download the documents in the Git repository in GitHub.
+#### By *Hamida Mstafa Mohamed*
 
-Installation Requirements,
-Git.
+## Description
+It's a webpage that shows different types of triangles and what they look like.
 
-Installation instruction,
-Git clone git@github.com:wesley-ali/Code-Challenge-Assignment..git
+## Installation
+You use git clone to be able to download the documents in the GitHub
 
-Live Link
+## Installation Requirements
+Git
+
+### Installation instruction
+```
+Git clone https://github.com/hamida-mstafa/Triangle-tracker.git
+
+```
+
+# Live Link
 [Git](gh-pages link)
 
-Technologies used
-HTML CSS Github Javascript
+## Technologies used
+HTML
+CSS
+Github
+Javascript
 
-Support and contact details
-github.com/wesley-ali
+## Support and contact details
+github.com/hamida-mstafa
 
-License
-The content of this site is licensed under the MIT license Copyright (c) 2024.
+### License
+The content of this site is licensed under the MIT license
+Copyright (c) 2018.
+
+
+
+
