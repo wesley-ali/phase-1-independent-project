@@ -15,8 +15,7 @@ Git
 
 ### Installation instruction
 ```
-
-
+git clone git@github.com:wesley-ali/phase-1-independent-project.git
 ```
 
 # Live Link
